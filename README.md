@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHaVVaNslZ-aA/profile-displaybackgroundimage-shrink_350_1400/B4DZaCbZqaG0Ac-/0/1745944944890?e=1759363200&v=beta&t=m6ewKEn0H7l29lg3dLSbYvfquZEUGCLPoidDDY8kET8)
-
 <h1 align="center">Hi 👋, I'm Muhammed Mustafa Demirhan</h1>
 <h3 align="center">A passionate full stack developer from Turkey</h3>
 
